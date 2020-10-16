@@ -1,8 +1,7 @@
 {
-  "headers":{
-   "/*":{
+  "headers": {
+   "/*": {
     "X-Author": "igogor"
-   }
+    }
   }
-
 }
